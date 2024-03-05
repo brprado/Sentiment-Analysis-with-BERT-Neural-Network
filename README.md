@@ -1,6 +1,6 @@
 # Projeto de Análise de Sentimentos com BERT e Web Scraping
 
-Este projeto tem como objetivo construir um sistema de análise de sentimentos que utiliza o modelo BERT pré-treinado e técnicas de web scraping para classificar citações como positivas, negativas ou neutras.
+Este projeto tem como objetivo construir um sistema de análise de sentimentos que utiliza o modelo BERT pré-treinado e técnicas de web scraping para classificar citações entre 1 e 5 pontos.
 
 ## Visão Geral
 
